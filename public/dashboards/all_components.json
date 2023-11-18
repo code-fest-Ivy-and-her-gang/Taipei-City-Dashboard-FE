@@ -4096,6 +4096,53 @@
 			"tags": [],
 			"links": [],
 			"contributors": ["tuic"]
+		},
+		"155": {
+			"id": 155,
+			"index": "public_toilet",
+			"map_config": [
+				{
+					"index": "public_toilet",
+					"paint": {
+						"circle-color": "#A25FAD"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "公廁名稱"
+						},
+						{
+							"key": "admin",
+							"name": "管理單位"
+						},
+						{
+							"key": "parentChildSitNumber",
+							"name": "親子廁座數"
+						}
+					],
+					"type": "circle",
+					"title": "親子公共廁所分布"
+				}
+			],
+			"chart_config": {
+				"color": ["#0070bd"],
+				"types": ["CircleLineChart"],
+				"unit": null
+			},
+			"name": "親子公共廁所分布",
+			"source": "衛生局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示親子公共廁所分布",
+			"long_desc": "顯示親子公共廁所分布地點，資料來源為台北市衛生局公開資料，每月更新。",
+			"use_case": "透過台北市衛生局公開資料，我們能了解當前親子公共廁所分布情況。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=cd050577-115f-4299-b37a-012ff490a632"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
 		}
 	}
 }
