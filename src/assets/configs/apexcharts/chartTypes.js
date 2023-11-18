@@ -12,4 +12,5 @@ export const chartTypes = {
 	RadarChart: "雷達圖",
 	HeatmapChart: "熱力圖",
 	CircleLineChart: "圓圈直線圖",
+	DynamicCircleChart: "動態圓餅圖",
 };
