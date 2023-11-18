@@ -4,854 +4,759 @@
     "name": "榮恩耳鼻喉科小兒科聯合診所",
     "region": "松山區",
     "address": "台北市松山區南京東路5段258號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.566471",
+    "latitude": "25.051151"
   },
   {
     "category": "兒科",
     "name": "蔡恭禮內兒科診所",
     "region": "松山區",
     "address": "台北市松山區新東街28號之2",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.566038",
+    "latitude": "25.059336"
   },
   {
     "category": "兒科",
     "name": "劉內兒科診所",
     "region": "松山區",
     "address": "台北市松山區民生東路5段148號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.562151",
+    "latitude": "25.058494"
   },
   {
     "category": "兒科",
     "name": "康明哲小兒科內科診所",
     "region": "松山區",
     "address": "台北市松山區三民路136巷15號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.56408",
+    "latitude": "25.060665"
   },
   {
     "category": "兒科",
     "name": "佳祐內兒科診所",
     "region": "松山區",
     "address": "台北市松山區八德路4段91巷1號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.560768",
+    "latitude": "25.048884"
   },
   {
     "category": "兒科",
     "name": "松山內兒科診所",
     "region": "松山區",
     "address": "台北市松山區八德路4段255號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.565109",
+    "latitude": "25.049043"
   },
   {
     "category": "兒科",
     "name": "詹前俊小兒科診所",
     "region": "松山區",
     "address": "台北市松山區民生東路5段105號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.560077",
+    "latitude": "25.058776"
   },
   {
     "category": "兒科",
     "name": "華南小兒科診所",
     "region": "松山區",
     "address": "台北市松山區延吉街30巷15號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.552617",
+    "latitude": "25.046074"
   },
   {
     "category": "兒科",
     "name": "江崇萍小兒科診所",
     "region": "松山區",
     "address": "台北市松山區南京東路5段251巷24弄27號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.564351",
+    "latitude": "25.052357"
   },
   {
     "category": "兒科",
     "name": "許韻純小兒科診所",
     "region": "松山區",
     "address": "台北市松山區民生東路5段3號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.555588",
+    "latitude": "25.05843"
   },
   {
     "category": "兒科",
     "name": "車參薇小兒科診所",
     "region": "松山區",
     "address": "台北市松山區八德路3段195號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.55619",
+    "latitude": "25.048162"
   },
   {
     "category": "兒科",
     "name": "洪小兒科診所",
     "region": "松山區",
     "address": "台北市松山區市民大道5段165號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.564651",
+    "latitude": "25.048086"
   },
   {
     "category": "兒科",
     "name": "林當淳內兒科診所",
     "region": "大安區",
     "address": "台北市大安區通化街38巷7號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.553809",
+    "latitude": "25.030984"
   },
   {
     "category": "兒科",
     "name": "葉明憲小兒科診所",
     "region": "大安區",
     "address": "台北市大安區羅斯福路3段191號2樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.528084",
+    "latitude": "25.021076"
   },
   {
     "category": "兒科",
     "name": "陳啟章小兒科診所（枝盈婦幼聯合門診）",
     "region": "大安區",
     "address": "台北市大安區金山南路2段31巷9號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.528593",
+    "latitude": "25.032851"
   },
   {
     "category": "兒科",
     "name": "呂小兒科診所",
     "region": "大安區",
     "address": "台北市大安區通化街24巷6號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.55389",
+    "latitude": "25.031745"
   },
   {
     "category": "兒科",
     "name": "柯嘉音小兒科診所",
     "region": "大安區",
     "address": "台北市大安區安和路1段127巷12號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.553206",
+    "latitude": "25.034572"
   },
   {
     "category": "兒科",
     "name": "許靜瑛小兒科診所",
     "region": "大安區",
     "address": "台北市大安區和平東路1段230號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.532343",
+    "latitude": "25.026088"
   },
   {
     "category": "兒科",
     "name": "黃文香兒科診所",
     "region": "大安區",
     "address": "台北市大安區忠孝東路4段250號2樓之1",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.554216",
+    "latitude": "25.041202"
   },
   {
     "category": "兒科",
     "name": "王佳文內兒科診所",
     "region": "大同區",
     "address": "台北市大同區重慶北路3段274－1號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.513588",
+    "latitude": "25.071874"
   },
   {
     "category": "兒科",
     "name": "施小兒科診所",
     "region": "大同區",
     "address": "台北市大同區重慶北路3段28號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.513461",
+    "latitude": "25.06509"
   },
   {
     "category": "兒科",
     "name": "黃博裕小兒科診所",
     "region": "大同區",
     "address": "台北市大同區赤峰街49巷21號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.52027",
+    "latitude": "25.055765"
   },
   {
     "category": "兒科",
     "name": "大橋小兒科診所",
     "region": "大同區",
     "address": "台北市大同區延平北路3段22－8號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.511039",
+    "latitude": "25.064094"
   },
   {
     "category": "兒科",
     "name": "雙連婦產科小兒科診所",
     "region": "大同區",
     "address": "台北市大同區民生西路128號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.519127",
+    "latitude": "25.05734"
   },
   {
     "category": "兒科",
     "name": "朱宜陽內兒科診所",
     "region": "中山區",
     "address": "台北市中山區長春路348－4號2樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.541506",
+    "latitude": "25.054521"
   },
   {
     "category": "兒科",
     "name": "葉小兒科診所",
     "region": "中山區",
     "address": "台北市中山區長春路227號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.53883",
+    "latitude": "25.054807"
   },
   {
     "category": "兒科",
     "name": "柏泉內科小兒科診所",
     "region": "中山區",
     "address": "台北市中山區北安路595巷20弄5號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.547651",
+    "latitude": "25.081866"
   },
   {
     "category": "兒科",
     "name": "黃喜祥小兒科診所",
     "region": "中山區",
     "address": "台北市中山區民生東路2段84號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.53058",
+    "latitude": "25.057846"
   },
   {
     "category": "兒科",
     "name": "龍江小兒科診所",
     "region": "中山區",
     "address": "台北市中山區龍江路181－1號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.540717",
+    "latitude": "25.055313"
   },
   {
     "category": "兒科",
     "name": "鄭志誠小兒科診所",
     "region": "中山區",
     "address": "台北市中山區民生東路1段8號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.523394",
+    "latitude": "25.057856"
   },
   {
     "category": "兒科",
     "name": "慶恩小兒科診所",
     "region": "中山區",
     "address": "台北市中山區吉林路117號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.530299",
+    "latitude": "25.056739"
   },
   {
     "category": "兒科",
     "name": "東湖內兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區東湖路4號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.612357",
+    "latitude": "25.068662"
   },
   {
     "category": "兒科",
     "name": "敏聖內兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區內湖路1段737巷27號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.578659",
+    "latitude": "25.079557"
   },
   {
     "category": "兒科",
     "name": "內湖張內兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區成功路4段47號2樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.591908",
+    "latitude": "25.081499"
   },
   {
     "category": "兒科",
     "name": "宋小兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區內湖路2段25號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.579588",
+    "latitude": "25.078859"
   },
   {
     "category": "兒科",
     "name": "振興內兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區成功路3段193號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.590864",
+    "latitude": "25.080459"
   },
   {
     "category": "兒科",
     "name": "謝小兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區東湖路147號2樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.617195",
+    "latitude": "25.068145"
   },
   {
     "category": "兒科",
     "name": "藍曾小兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區東湖路132號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.616686",
+    "latitude": "25.06801"
   },
   {
     "category": "兒科",
     "name": "魏之明小兒科診所",
     "region": "內湖區",
     "address": "台北市內湖區康寧路3段54之6號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.609493",
+    "latitude": "25.071431"
   },
   {
     "category": "兒科",
     "name": "廖內兒科診所",
     "region": "南港區",
     "address": "台北市南港區忠孝東路7段617號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.615416",
+    "latitude": "25.053224"
   },
   {
     "category": "兒科",
     "name": "杏林內科小兒科診所",
     "region": "南港區",
     "address": "台北市南港區研究院路1段25號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.616549",
+    "latitude": "25.053864"
   },
   {
     "category": "兒科",
     "name": "蔣小兒科診所",
     "region": "南港區",
     "address": "台北市南港區玉成街166巷30號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.583281",
+    "latitude": "25.04393"
   },
   {
     "category": "兒科",
     "name": "天仁小兒科診所",
     "region": "南港區",
     "address": "台北市南港區成福路21號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.586697",
+    "latitude": "25.044785"
   },
   {
     "category": "兒科",
     "name": "義仁兒科診所",
     "region": "南港區",
     "address": "台北市南港區玉成街138號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.583184",
+    "latitude": "25.045026"
   },
   {
     "category": "兒科",
     "name": "李文珍小兒科診所",
     "region": "南港區",
     "address": "台北市南港區研究院路2段74號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.615108",
+    "latitude": "25.04557"
   },
   {
     "category": "兒科",
     "name": "天母許內兒科診所",
     "region": "士林區",
     "address": "台北市士林區天母北路49號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.526901",
+    "latitude": "25.120947"
   },
   {
     "category": "兒科",
     "name": "李世澤小兒科內科診所",
     "region": "士林區",
     "address": "台北市士林區社子街67號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.506714",
+    "latitude": "25.087519"
   },
   {
     "category": "兒科",
     "name": "存德小兒科診所",
     "region": "士林區",
     "address": "台北市士林區文林路460號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.524559",
+    "latitude": "25.095638"
   },
   {
     "category": "兒科",
     "name": "惠周內兒科診所",
     "region": "士林區",
     "address": "台北市士林區大北路96號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.524474",
+    "latitude": "25.090364"
   },
   {
     "category": "兒科",
     "name": "林佳宏小兒科診所",
     "region": "士林區",
     "address": "台北市士林區中山北路6段462號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.527655",
+    "latitude": "25.114619"
   },
   {
     "category": "兒科",
     "name": "柯佑民小兒科診所",
     "region": "士林區",
     "address": "台北市士林區天母東路8巷19弄5號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.532103",
+    "latitude": "25.117522"
   },
   {
     "category": "兒科",
     "name": "何小兒科診所",
     "region": "士林區",
     "address": "台北市士林區福港街176號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.517681",
+    "latitude": "25.086653"
   },
   {
     "category": "兒科",
     "name": "蕭雨青小兒科診所",
     "region": "士林區",
     "address": "台北市士林區延平北路5段292號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.509702",
+    "latitude": "25.085702"
   },
   {
     "category": "兒科",
     "name": "嘉櫻小兒科診所",
     "region": "士林區",
     "address": "台北市士林區德行西路119號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.52054",
+    "latitude": "25.103929"
   },
   {
     "category": "兒科",
     "name": "張虔熙小兒科診所",
     "region": "士林區",
     "address": "台北市士林區中山北路6段282號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.525615",
+    "latitude": "25.110085"
   },
   {
     "category": "兒科",
     "name": "家愛小兒科診所",
     "region": "士林區",
     "address": "台北市士林區中山北路5段633號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.527542",
+    "latitude": "25.096273"
   },
   {
     "category": "兒科",
     "name": "周怡宏小兒科診所",
     "region": "士林區",
     "address": "台北市士林區基河路200號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.521762",
+    "latitude": "25.090267"
   },
   {
     "category": "兒科",
     "name": "上品小兒科診所",
     "region": "士林區",
     "address": "台北市士林區中正路219號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.526391",
+    "latitude": "25.095268"
   },
   {
     "category": "兒科",
     "name": "士林小兒科診所",
     "region": "士林區",
     "address": "台北市士林區中正路249號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.525149",
+    "latitude": "25.094989"
   },
   {
     "category": "兒科",
     "name": "王小兒科診所",
     "region": "北投區",
     "address": "台北市北投區中央南路1段34號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.501343",
+    "latitude": "25.132427"
   },
   {
     "category": "兒科",
     "name": "蔡秉勳小兒科診所",
     "region": "北投區",
     "address": "台北市北投區中和街281號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.500367",
+    "latitude": "25.140286"
   },
   {
     "category": "兒科",
     "name": "陳獻明小兒科診所",
     "region": "北投區",
     "address": "台北市北投區中央南路1段69號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.501368",
+    "latitude": "25.131447"
   },
   {
     "category": "兒科",
     "name": "李伯匯小兒科診所",
     "region": "北投區",
     "address": "台北市北投區石牌路1段93號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.511754",
+    "latitude": "25.113924"
   },
   {
     "category": "兒科",
     "name": "何叔芳小兒科診所",
     "region": "北投區",
     "address": "台北市北投區裕民4路4號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.515760",
+    "latitude": "25.115441"
   },
   {
     "category": "兒科",
     "name": "宏恩兒科診所",
     "region": "北投區",
     "address": "台北市北投區致遠一路2段99號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.512958",
+    "latitude": "25.112884"
   },
   {
     "category": "兒科",
     "name": "連小兒科診所",
     "region": "信義區",
     "address": "台北市信義區松山路465巷11號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.578684",
+    "latitude": "25.039811"
   },
   {
     "category": "兒科",
     "name": "游內兒科診所",
     "region": "信義區",
     "address": "台北市信義區大道路2號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.581434",
+    "latitude": "25.042501"
   },
   {
     "category": "兒科",
     "name": "翁內兒科診所",
     "region": "信義區",
     "address": "台北市信義區莊敬路234號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.562057",
+    "latitude": "25.029634"
   },
   {
     "category": "兒科",
     "name": "富陽劉內兒科診所",
     "region": "信義區",
     "address": "台北市信義區富陽街43號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.556476",
+    "latitude": "25.022604"
   },
   {
     "category": "兒科",
     "name": "鄭光志小兒科診所",
     "region": "信義區",
     "address": "台北市信義區松山路484號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.577802",
+    "latitude": "25.039107"
   },
   {
     "category": "兒科",
     "name": "長風小兒科診所",
     "region": "信義區",
     "address": "台北市信義區莊敬路351號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.564546",
+    "latitude": "25.027888"
   },
   {
     "category": "兒科",
     "name": "林應然小兒科診所",
     "region": "信義區",
     "address": "台北市信義區福德街75號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.581141",
+    "latitude": "25.036854"
   },
   {
     "category": "兒科",
     "name": "紹毅內兒科診所",
     "region": "中正區",
     "address": "台北市中正區八德路1段50．52號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.532433",
+    "latitude": "25.044146"
   },
   {
     "category": "兒科",
     "name": "朱小兒科診所",
     "region": "中正區",
     "address": "台北市中正區汀州路2段220號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.524002",
+    "latitude": "25.022117"
   },
   {
     "category": "兒科",
     "name": "周正成小兒科診所",
     "region": "中正區",
     "address": "台北市中正區忠孝東路2段22號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.527501",
+    "latitude": "25.043585"
   },
   {
     "category": "兒科",
     "name": "吳小兒科診所",
     "region": "中正區",
     "address": "台北市中正區寧波西街96號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.514855",
+    "latitude": "25.02963"
   },
   {
     "category": "兒科",
     "name": "萬華劉小兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區康定路158號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.501836",
+    "latitude": "25.039593"
   },
   {
     "category": "兒科",
     "name": "鄭內兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區艋舺大道430號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.492017",
+    "latitude": "25.028919"
   },
   {
     "category": "兒科",
     "name": "賴內兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區寶興街55號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.494011",
+    "latitude": "25.026724"
   },
   {
     "category": "兒科",
     "name": "東園黃內兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區東園街78號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.496833",
+    "latitude": "25.024986"
   },
   {
     "category": "兒科",
     "name": "漢宗小兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區中華路2段434號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.506505",
+    "latitude": "25.027153"
   },
   {
     "category": "兒科",
     "name": "許孟權小兒科診所",
     "region": "萬華區",
     "address": "台北市萬華區中華路2段376－1號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.50502",
+    "latitude": "25.0288"
   },
   {
     "category": "兒科",
     "name": "黃新民小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路2段137號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.548136",
+    "latitude": "25.00018"
   },
   {
     "category": "兒科",
     "name": "鍾內兒科診所",
     "region": "文山區",
     "address": "台北市文山區木柵路3段119號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.568323",
+    "latitude": "24.988962"
   },
   {
     "category": "兒科",
     "name": "興隆李內兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路1段12號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.539357",
+    "latitude": "25.004183"
   },
   {
     "category": "兒科",
     "name": "興隆內科小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路2段17號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.545508",
+    "latitude": "24.998899"
   },
   {
     "category": "兒科",
     "name": "林建輝小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路2段70號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.547998",
+    "latitude": "24.999749"
   },
   {
     "category": "兒科",
     "name": "葉洪小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路3段202號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.559057",
+    "latitude": "24.997752"
   },
   {
     "category": "兒科",
     "name": "王倫安小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路4段6－10號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.559554",
+    "latitude": "24.989673"
   },
   {
     "category": "兒科",
     "name": "陳建焜小兒科診所",
     "region": "文山區",
     "address": "台北市文山區木柵路1段75號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.54646",
+    "latitude": "24.987064"
   },
   {
     "category": "兒科",
     "name": "欣心小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路2段124號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.550403",
+    "latitude": "25.001003"
   },
   {
     "category": "兒科",
     "name": "屈銘軒小兒科診所",
     "region": "文山區",
     "address": "台北市文山區興隆路2段301巷4－2號",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.553487",
+    "latitude": "25.001763"
   },
   {
     "category": "兒科",
     "name": "震杰小兒科診所",
     "region": "文山區",
     "address": "台北市文山區景興路129號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.544807",
+    "latitude": "24.994434"
   },
   {
     "category": "兒科",
     "name": "黃偉志小兒科診所",
     "region": "文山區",
     "address": "台北市文山區萬慶街12號1樓",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.540104",
+    "latitude": "24.992384"
   },
   {
     "category": "兒科",
     "name": "台灣兒科醫學會",
     "region": "杭州南",
     "address": "台北市杭州南路一段69號10樓-1",
-    "phone": "",
-    "X": "",
-    "Y": ""
+    "longitude": "121.525761",
+    "latitude": "25.039798"
   }
 ]
