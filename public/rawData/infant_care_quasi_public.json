@@ -7,7 +7,9 @@
     "phone": "(02)33933104",
     "approvedAmount": 32,
     "actualAmount": 32,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.518658",
+    "latitude": "25.029533"
   },
   {
     "index": 2,
@@ -17,7 +19,9 @@
     "phone": "(02)33225686",
     "approvedAmount": 30,
     "actualAmount": 27,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.525347",
+    "latitude": "25.036563"
   },
   {
     "index": 3,
@@ -27,7 +31,9 @@
     "phone": "(02)23587111",
     "approvedAmount": 30,
     "actualAmount": 28,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.525231",
+    "latitude": "25.036591"
   },
   {
     "index": 4,
@@ -37,7 +43,9 @@
     "phone": "(02)23588542",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.521123",
+    "latitude": "25.044195"
   },
   {
     "index": 5,
@@ -47,7 +55,9 @@
     "phone": "(02)23435082",
     "approvedAmount": 27,
     "actualAmount": 27,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.530928",
+    "latitude": "25.03417"
   },
   {
     "index": 6,
@@ -57,7 +67,9 @@
     "phone": "(02)23675580",
     "approvedAmount": 33,
     "actualAmount": 33,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.524984",
+    "latitude": "25.021144"
   },
   {
     "index": 7,
@@ -67,7 +79,9 @@
     "phone": "(02)23685881",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.517765",
+    "latitude": "25.026429"
   },
   {
     "index": 8,
@@ -77,7 +91,9 @@
     "phone": "(02)23581556",
     "approvedAmount": 35,
     "actualAmount": 18,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.521477",
+    "latitude": "25.037862"
   },
   {
     "index": 9,
@@ -87,7 +103,9 @@
     "phone": "(02)23650251",
     "approvedAmount": 34,
     "actualAmount": 12,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.524589",
+    "latitude": "25.023226"
   },
   {
     "index": 10,
@@ -97,7 +115,9 @@
     "phone": "(02)23017171",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.514446",
+    "latitude": "25.024927"
   },
   {
     "index": 11,
@@ -107,7 +127,9 @@
     "phone": "(02)23517197",
     "approvedAmount": 35,
     "actualAmount": 35,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.532155",
+    "latitude": "25.041408"
   },
   {
     "index": 12,
@@ -117,7 +139,9 @@
     "phone": "(02)23113689",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.507722",
+    "latitude": "25.032885"
   },
   {
     "index": 13,
@@ -127,7 +151,9 @@
     "phone": "(02)25961237",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.513459",
+    "latitude": "25.06501"
   },
   {
     "index": 14,
@@ -137,7 +163,9 @@
     "phone": "(02)25531988",
     "approvedAmount": 40,
     "actualAmount": 32,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.511146",
+    "latitude": "25.062324"
   },
   {
     "index": 15,
@@ -147,7 +175,9 @@
     "phone": "(02)25850805",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.513372",
+    "latitude": "25.071244"
   },
   {
     "index": 16,
@@ -157,7 +187,9 @@
     "phone": "(02)25573488",
     "approvedAmount": 39,
     "actualAmount": 39,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.511298",
+    "latitude": "25.059996"
   },
   {
     "index": 17,
@@ -167,7 +199,9 @@
     "phone": "(02)25989926",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.513302",
+    "latitude": "25.067184"
   },
   {
     "index": 18,
@@ -177,7 +211,9 @@
     "phone": "(02)25854808",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.519785",
+    "latitude": "25.073758"
   },
   {
     "index": 19,
@@ -187,7 +223,9 @@
     "phone": "(02)25950892",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.516721",
+    "latitude": "25.073405"
   },
   {
     "index": 20,
@@ -197,7 +235,9 @@
     "phone": "(02)25527337",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.508267",
+    "latitude": "25.051233"
   },
   {
     "index": 21,
@@ -207,7 +247,9 @@
     "phone": "(02)25530711",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.511134",
+    "latitude": "25.061693"
   },
   {
     "index": 22,
@@ -217,7 +259,9 @@
     "phone": "(02)85092613",
     "approvedAmount": 20,
     "actualAmount": 19,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.548159",
+    "latitude": "25.078154"
   },
   {
     "index": 23,
@@ -227,7 +271,9 @@
     "phone": "(02)85026776",
     "approvedAmount": 35,
     "actualAmount": 30,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.563772",
+    "latitude": "25.077963"
   },
   {
     "index": 24,
@@ -237,7 +283,9 @@
     "phone": "(02)25717858",
     "approvedAmount": 40,
     "actualAmount": 18,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.522073",
+    "latitude": "25.061039"
   },
   {
     "index": 25,
@@ -247,7 +295,9 @@
     "phone": "(02)25812922",
     "approvedAmount": 18,
     "actualAmount": 18,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.532197",
+    "latitude": "25.04802"
   },
   {
     "index": 26,
@@ -257,7 +307,9 @@
     "phone": "(02)25091368",
     "approvedAmount": 19,
     "actualAmount": 19,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.540034",
+    "latitude": "25.059781"
   },
   {
     "index": 27,
@@ -267,7 +319,9 @@
     "phone": "(02)25081708",
     "approvedAmount": 21,
     "actualAmount": 20,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.538646",
+    "latitude": "25.058395"
   },
   {
     "index": 28,
@@ -277,7 +331,9 @@
     "phone": "(02)25051725",
     "approvedAmount": 18,
     "actualAmount": 18,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.541577",
+    "latitude": "25.065469"
   },
   {
     "index": 29,
@@ -287,7 +343,9 @@
     "phone": "(02)25336823",
     "approvedAmount": 20,
     "actualAmount": 17,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.549815",
+    "latitude": "25.077497"
   },
   {
     "index": 30,
@@ -297,7 +355,9 @@
     "phone": "(02)25065757",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.537704",
+    "latitude": "25.058924"
   },
   {
     "index": 31,
@@ -307,7 +367,9 @@
     "phone": "(02)25090007",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.542089",
+    "latitude": "25.066579"
   },
   {
     "index": 32,
@@ -317,7 +379,9 @@
     "phone": "(02)25324766",
     "approvedAmount": 26,
     "actualAmount": 26,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 33,
@@ -327,7 +391,9 @@
     "phone": "(02)27116825",
     "approvedAmount": 63,
     "actualAmount": 54,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 34,
@@ -337,7 +403,9 @@
     "phone": "(02)27510630",
     "approvedAmount": 23,
     "actualAmount": 21,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 35,
@@ -347,7 +415,9 @@
     "phone": "(02)27111148",
     "approvedAmount": 38,
     "actualAmount": 14,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 36,
@@ -357,7 +427,9 @@
     "phone": "(02)25178218",
     "approvedAmount": 39,
     "actualAmount": 5,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 37,
@@ -367,7 +439,9 @@
     "phone": "(02)25424203",
     "approvedAmount": 34,
     "actualAmount": 20,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 38,
@@ -377,7 +451,9 @@
     "phone": "(02)25214118",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 39,
@@ -387,7 +463,9 @@
     "phone": "(02)25114698",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 40,
@@ -397,7 +475,9 @@
     "phone": "(02)85015418",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 41,
@@ -407,7 +487,9 @@
     "phone": "(02)25334390",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 42,
@@ -417,7 +499,9 @@
     "phone": "(02)25330158",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 43,
@@ -427,7 +511,9 @@
     "phone": "(02)85012413",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 44,
@@ -437,7 +523,9 @@
     "phone": "(02)27687959",
     "approvedAmount": 23,
     "actualAmount": 22,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 45,
@@ -447,7 +535,9 @@
     "phone": "(02)25791370",
     "approvedAmount": 32,
     "actualAmount": 32,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 46,
@@ -457,7 +547,9 @@
     "phone": "(02)25791350",
     "approvedAmount": 30,
     "actualAmount": 27,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 47,
@@ -467,7 +559,9 @@
     "phone": "(02)37651389",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 48,
@@ -477,7 +571,9 @@
     "phone": "(02)25771163",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 49,
@@ -487,7 +583,9 @@
     "phone": "(02)27123455",
     "approvedAmount": 24,
     "actualAmount": 2,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 50,
@@ -497,7 +595,9 @@
     "phone": "(02)27565859",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 51,
@@ -507,7 +607,9 @@
     "phone": "(02)25472977",
     "approvedAmount": 36,
     "actualAmount": 21,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 52,
@@ -517,7 +619,9 @@
     "phone": "(02)25473118",
     "approvedAmount": 22,
     "actualAmount": 14,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 53,
@@ -527,7 +631,9 @@
     "phone": "(02)27126655",
     "approvedAmount": 26,
     "actualAmount": 26,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 54,
@@ -537,7 +643,9 @@
     "phone": "(02)87875598",
     "approvedAmount": 32,
     "actualAmount": 29,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 55,
@@ -547,7 +655,9 @@
     "phone": "(02)25466699",
     "approvedAmount": 30,
     "actualAmount": 23,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 56,
@@ -557,7 +667,9 @@
     "phone": "(02)27672855",
     "approvedAmount": 60,
     "actualAmount": 28,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 57,
@@ -567,7 +679,9 @@
     "phone": "(02)25140228",
     "approvedAmount": 25,
     "actualAmount": 25,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 58,
@@ -577,7 +691,9 @@
     "phone": "(02)25467888",
     "approvedAmount": 26,
     "actualAmount": 8,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 59,
@@ -587,7 +703,9 @@
     "phone": "(02)37651775",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 60,
@@ -597,7 +715,9 @@
     "phone": "(02)27618321",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 61,
@@ -607,7 +727,9 @@
     "phone": "(02)27652003",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 62,
@@ -617,7 +739,9 @@
     "phone": "(02)27480228",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 63,
@@ -627,7 +751,9 @@
     "phone": "(02)27381616",
     "approvedAmount": 40,
     "actualAmount": 28,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 64,
@@ -637,7 +763,9 @@
     "phone": "(02)27030888",
     "approvedAmount": 28,
     "actualAmount": 28,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 65,
@@ -647,7 +775,9 @@
     "phone": "(02)23678146",
     "approvedAmount": 33,
     "actualAmount": 33,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 66,
@@ -657,7 +787,9 @@
     "phone": "(02)23910805",
     "approvedAmount": 28,
     "actualAmount": 19,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 67,
@@ -667,7 +799,9 @@
     "phone": "(02)27048288",
     "approvedAmount": 35,
     "actualAmount": 35,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 68,
@@ -677,7 +811,9 @@
     "phone": "(02)23681237",
     "approvedAmount": 40,
     "actualAmount": 28,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 69,
@@ -687,7 +823,9 @@
     "phone": "(02)27045089",
     "approvedAmount": 25,
     "actualAmount": 25,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 70,
@@ -697,7 +835,9 @@
     "phone": "(02)23635261",
     "approvedAmount": 39,
     "actualAmount": 39,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 71,
@@ -707,7 +847,9 @@
     "phone": "(02)27009000",
     "approvedAmount": 40,
     "actualAmount": 39,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 72,
@@ -717,7 +859,9 @@
     "phone": "(02)27320909",
     "approvedAmount": 24,
     "actualAmount": 24,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 73,
@@ -727,7 +871,9 @@
     "phone": "(02)23778185",
     "approvedAmount": 25,
     "actualAmount": 25,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 74,
@@ -737,7 +883,9 @@
     "phone": "(02)23656565",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 75,
@@ -747,7 +895,9 @@
     "phone": "(02)27070857",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 76,
@@ -757,7 +907,9 @@
     "phone": "(02)27374956",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 77,
@@ -767,7 +919,9 @@
     "phone": "(02)23770039",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 78,
@@ -777,7 +931,9 @@
     "phone": "(02)27780378",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 79,
@@ -787,7 +943,9 @@
     "phone": "(02)23089200",
     "approvedAmount": 21,
     "actualAmount": 20,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 80,
@@ -797,7 +955,9 @@
     "phone": "(02)23391661",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 81,
@@ -807,7 +967,9 @@
     "phone": "(02)23043118",
     "approvedAmount": 19,
     "actualAmount": 19,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 82,
@@ -817,7 +979,9 @@
     "phone": "(02)23017002",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 83,
@@ -827,7 +991,9 @@
     "phone": "(02)23097027",
     "approvedAmount": 28,
     "actualAmount": 28,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 84,
@@ -837,7 +1003,9 @@
     "phone": "(02)23073636",
     "approvedAmount": 24,
     "actualAmount": 24,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 85,
@@ -847,7 +1015,9 @@
     "phone": "(02)23889066",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 86,
@@ -857,7 +1027,9 @@
     "phone": "(02)23375687",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 87,
@@ -867,7 +1039,9 @@
     "phone": "(02)23052362",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 88,
@@ -877,7 +1051,9 @@
     "phone": "(02)23038805",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 89,
@@ -887,7 +1063,9 @@
     "phone": "(02)23083199",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 90,
@@ -897,7 +1075,9 @@
     "phone": "(02)23016925",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 91,
@@ -907,7 +1087,9 @@
     "phone": "(02)23391231",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 92,
@@ -917,7 +1099,9 @@
     "phone": "(02)23019738",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 93,
@@ -927,7 +1111,9 @@
     "phone": "(02)23011536",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 94,
@@ -937,7 +1123,9 @@
     "phone": "(02)23028488",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 95,
@@ -947,7 +1135,9 @@
     "phone": "(02)23459330",
     "approvedAmount": 24,
     "actualAmount": 24,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 96,
@@ -957,7 +1147,9 @@
     "phone": "(02)87801438",
     "approvedAmount": 20,
     "actualAmount": 19,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 97,
@@ -967,7 +1159,9 @@
     "phone": "(02)27277726",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 98,
@@ -977,7 +1171,9 @@
     "phone": "(02)87869037",
     "approvedAmount": 24,
     "actualAmount": 23,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 99,
@@ -987,7 +1183,9 @@
     "phone": "(02)87869036",
     "approvedAmount": 28,
     "actualAmount": 27,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 100,
@@ -997,7 +1195,9 @@
     "phone": "(02)66050926",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 101,
@@ -1007,7 +1207,9 @@
     "phone": "(02)27208889",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 102,
@@ -1017,7 +1219,9 @@
     "phone": "(02)23783232",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 103,
@@ -1027,7 +1231,9 @@
     "phone": "(02)27580675",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 104,
@@ -1037,7 +1243,9 @@
     "phone": "(02)27495657",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 105,
@@ -1047,7 +1255,9 @@
     "phone": "(02)28359188",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 106,
@@ -1057,7 +1267,9 @@
     "phone": "(02)28361115",
     "approvedAmount": 24,
     "actualAmount": 24,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 107,
@@ -1067,7 +1279,9 @@
     "phone": "(02)28359188",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 108,
@@ -1077,7 +1291,9 @@
     "phone": "(02)28718698",
     "approvedAmount": 40,
     "actualAmount": 29,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 109,
@@ -1087,7 +1303,9 @@
     "phone": "(02)28366515",
     "approvedAmount": 22,
     "actualAmount": 18,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 110,
@@ -1097,7 +1315,9 @@
     "phone": "(02)28718988",
     "approvedAmount": 31,
     "actualAmount": 30,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 111,
@@ -1107,7 +1327,9 @@
     "phone": "(02)28348523",
     "approvedAmount": 34,
     "actualAmount": 30,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 112,
@@ -1117,7 +1339,9 @@
     "phone": "(02)28810088",
     "approvedAmount": 23,
     "actualAmount": 21,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 113,
@@ -1127,7 +1351,9 @@
     "phone": "(02)28136942",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 114,
@@ -1137,7 +1363,9 @@
     "phone": "(02)28313391",
     "approvedAmount": 25,
     "actualAmount": 24,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 115,
@@ -1147,7 +1375,9 @@
     "phone": "(02)28718697",
     "approvedAmount": 27,
     "actualAmount": 24,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 116,
@@ -1157,7 +1387,9 @@
     "phone": "(02)28881541",
     "approvedAmount": 33,
     "actualAmount": 31,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 117,
@@ -1167,7 +1399,9 @@
     "phone": "(02)28315601",
     "approvedAmount": 30,
     "actualAmount": 29,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 118,
@@ -1177,7 +1411,9 @@
     "phone": "(02)88611580",
     "approvedAmount": 40,
     "actualAmount": 38,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 119,
@@ -1187,7 +1423,9 @@
     "phone": "(02)28883520",
     "approvedAmount": 79,
     "actualAmount": 77,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 120,
@@ -1197,7 +1435,9 @@
     "phone": "(02)28162958",
     "approvedAmount": 23,
     "actualAmount": 23,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 121,
@@ -1207,7 +1447,9 @@
     "phone": "(02)28333030",
     "approvedAmount": 30,
     "actualAmount": 29,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 122,
@@ -1217,7 +1459,9 @@
     "phone": "(02)28116565",
     "approvedAmount": 34,
     "actualAmount": 30,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 123,
@@ -1227,7 +1471,9 @@
     "phone": "(02)28360083",
     "approvedAmount": 24,
     "actualAmount": 24,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 124,
@@ -1237,7 +1483,9 @@
     "phone": "(02)28764468",
     "approvedAmount": 35,
     "actualAmount": 34,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 125,
@@ -1247,7 +1495,9 @@
     "phone": "(02)28360711",
     "approvedAmount": 19,
     "actualAmount": 19,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 126,
@@ -1257,7 +1507,9 @@
     "phone": "(02)28836242",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 127,
@@ -1267,7 +1519,9 @@
     "phone": "(02)28385506",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 128,
@@ -1277,7 +1531,9 @@
     "phone": "(02)28105878",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 129,
@@ -1287,7 +1543,9 @@
     "phone": "(02)28117668",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 130,
@@ -1297,7 +1555,9 @@
     "phone": "(02)28815205",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 131,
@@ -1307,7 +1567,9 @@
     "phone": "(02)28745376",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 132,
@@ -1317,7 +1579,9 @@
     "phone": "(02)28384896",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 133,
@@ -1327,7 +1591,9 @@
     "phone": "(02)28318272",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 134,
@@ -1337,7 +1603,9 @@
     "phone": "(02)28833701",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 135,
@@ -1347,7 +1615,9 @@
     "phone": "(02)28981491",
     "approvedAmount": 24,
     "actualAmount": 23,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 136,
@@ -1357,7 +1627,9 @@
     "phone": "(02)28237932",
     "approvedAmount": 34,
     "actualAmount": 34,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 137,
@@ -1367,7 +1639,9 @@
     "phone": "(02)28722873",
     "approvedAmount": 34,
     "actualAmount": 34,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 138,
@@ -1377,7 +1651,9 @@
     "phone": "(02)28232405",
     "approvedAmount": 22,
     "actualAmount": 17,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 139,
@@ -1387,7 +1663,9 @@
     "phone": "(02)28932886",
     "approvedAmount": 22,
     "actualAmount": 22,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 140,
@@ -1397,7 +1675,9 @@
     "phone": "(02)28986662",
     "approvedAmount": 20,
     "actualAmount": 19,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 141,
@@ -1407,7 +1687,9 @@
     "phone": "(02)28280818",
     "approvedAmount": 38,
     "actualAmount": 35,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 142,
@@ -1417,7 +1699,9 @@
     "phone": "(02)28272659",
     "approvedAmount": 20,
     "actualAmount": 19,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 143,
@@ -1427,7 +1711,9 @@
     "phone": "(02)28216575",
     "approvedAmount": 22,
     "actualAmount": 20,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 144,
@@ -1437,7 +1723,9 @@
     "phone": "(02)28282525",
     "approvedAmount": 49,
     "actualAmount": 30,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 145,
@@ -1447,7 +1735,9 @@
     "phone": "(02)28942666",
     "approvedAmount": 63,
     "actualAmount": 49,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 146,
@@ -1457,7 +1747,9 @@
     "phone": "(02)28212653",
     "approvedAmount": 39,
     "actualAmount": 25,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 147,
@@ -1467,7 +1759,9 @@
     "phone": "(02)28973848",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 148,
@@ -1477,7 +1771,9 @@
     "phone": "(02)28581758",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "108-甲"
+    "evaluationResult": "108-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 149,
@@ -1487,7 +1783,9 @@
     "phone": "(02)28982327",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 150,
@@ -1497,7 +1795,9 @@
     "phone": "(02)28962977",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 151,
@@ -1507,7 +1807,9 @@
     "phone": "(02)28931077",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 152,
@@ -1517,7 +1819,9 @@
     "phone": "(02)28280362",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 153,
@@ -1527,7 +1831,9 @@
     "phone": "(02)28280372",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 154,
@@ -1537,7 +1843,9 @@
     "phone": "(02)28988036",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 155,
@@ -1547,7 +1855,9 @@
     "phone": "(02)26321036",
     "approvedAmount": 30,
     "actualAmount": 30,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 156,
@@ -1557,7 +1867,9 @@
     "phone": "(02)27938049",
     "approvedAmount": 20,
     "actualAmount": 20,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 157,
@@ -1567,7 +1879,9 @@
     "phone": "(02)87972299",
     "approvedAmount": 25,
     "actualAmount": 25,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 158,
@@ -1577,7 +1891,9 @@
     "phone": "(02)27923235",
     "approvedAmount": 58,
     "actualAmount": 57,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 159,
@@ -1587,7 +1903,9 @@
     "phone": "(02)26338731",
     "approvedAmount": 18,
     "actualAmount": 15,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 160,
@@ -1597,7 +1915,9 @@
     "phone": "(02)26346475",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 161,
@@ -1607,7 +1927,9 @@
     "phone": "(02)27962488",
     "approvedAmount": 40,
     "actualAmount": 36,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 162,
@@ -1617,7 +1939,9 @@
     "phone": "(02)26310095",
     "approvedAmount": 33,
     "actualAmount": 33,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 163,
@@ -1627,7 +1951,9 @@
     "phone": "(02)87925533",
     "approvedAmount": 160,
     "actualAmount": 35,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 164,
@@ -1637,7 +1963,9 @@
     "phone": "(02)27908009",
     "approvedAmount": 33,
     "actualAmount": 33,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 165,
@@ -1647,7 +1975,9 @@
     "phone": "(02)26339090",
     "approvedAmount": 40,
     "actualAmount": 38,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 166,
@@ -1657,7 +1987,9 @@
     "phone": "(02)26279660",
     "approvedAmount": 29,
     "actualAmount": 28,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 167,
@@ -1667,7 +1999,9 @@
     "phone": "(02)27911133",
     "approvedAmount": 38,
     "actualAmount": 24,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 168,
@@ -1677,7 +2011,9 @@
     "phone": "(02)27995337",
     "approvedAmount": 69,
     "actualAmount": 57,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 169,
@@ -1687,7 +2023,9 @@
     "phone": "(02)26346116",
     "approvedAmount": 23,
     "actualAmount": 11,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 170,
@@ -1697,7 +2035,9 @@
     "phone": "(02)26330519",
     "approvedAmount": 46,
     "actualAmount": 5,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 171,
@@ -1707,7 +2047,9 @@
     "phone": "(02)77097991",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 172,
@@ -1717,7 +2059,9 @@
     "phone": "(02)27943017",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "108-優"
+    "evaluationResult": "108-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 173,
@@ -1727,7 +2071,9 @@
     "phone": "(02)87978863",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 174,
@@ -1737,7 +2083,9 @@
     "phone": "(02)27926383",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 175,
@@ -1747,7 +2095,9 @@
     "phone": "(02)27968015",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 176,
@@ -1757,7 +2107,9 @@
     "phone": "(02)87922462",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 177,
@@ -1767,7 +2119,9 @@
     "phone": "(02)87510725",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 178,
@@ -1777,7 +2131,9 @@
     "phone": "(02)87978861",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 179,
@@ -1787,7 +2143,9 @@
     "phone": "(02)27936532",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 180,
@@ -1797,7 +2155,9 @@
     "phone": "(02)26591991",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 181,
@@ -1807,7 +2167,9 @@
     "phone": "(02)27885829",
     "approvedAmount": 25,
     "actualAmount": 8,
-    "evaluationResult": "109-乙"
+    "evaluationResult": "109-乙",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 182,
@@ -1817,7 +2179,9 @@
     "phone": "(02)26512407",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 183,
@@ -1827,7 +2191,9 @@
     "phone": "(02)27835265",
     "approvedAmount": 35,
     "actualAmount": 28,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 184,
@@ -1837,7 +2203,9 @@
     "phone": "(02)26538812",
     "approvedAmount": 40,
     "actualAmount": 35,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 185,
@@ -1847,7 +2215,9 @@
     "phone": "(02)27834082",
     "approvedAmount": 32,
     "actualAmount": 32,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 186,
@@ -1857,7 +2227,9 @@
     "phone": "(02)27856838",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-優"
+    "evaluationResult": "109-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 187,
@@ -1867,7 +2239,9 @@
     "phone": "(02)27883976",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 188,
@@ -1877,7 +2251,9 @@
     "phone": "(02)26530800",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550709",
+    "latitude": "25.077528"
   },
   {
     "index": 189,
@@ -1887,7 +2263,9 @@
     "phone": "(02)27853848",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.604462",
+    "latitude": "25.054666"
   },
   {
     "index": 190,
@@ -1897,7 +2275,9 @@
     "phone": "(02)27836583",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.604462",
+    "latitude": "25.054666"
   },
   {
     "index": 191,
@@ -1907,7 +2287,9 @@
     "phone": "(02)29303666",
     "approvedAmount": 50,
     "actualAmount": 50,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.604462",
+    "latitude": "25.054666"
   },
   {
     "index": 192,
@@ -1917,7 +2299,9 @@
     "phone": "(02)29386090",
     "approvedAmount": 32,
     "actualAmount": 31,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.566323",
+    "latitude": "24.989229"
   },
   {
     "index": 193,
@@ -1927,7 +2311,9 @@
     "phone": "(02)29390678",
     "approvedAmount": 24,
     "actualAmount": 22,
-    "evaluationResult": "111-乙"
+    "evaluationResult": "111-乙",
+    "longitude": "121.574262",
+    "latitude": "24.989699"
   },
   {
     "index": 194,
@@ -1937,7 +2323,9 @@
     "phone": "(02)29388800",
     "approvedAmount": 28,
     "actualAmount": 26,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.569225",
+    "latitude": "24.982603"
   },
   {
     "index": 195,
@@ -1947,7 +2335,9 @@
     "phone": "(02)29311099",
     "approvedAmount": 19,
     "actualAmount": 19,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.554272",
+    "latitude": "25.001652"
   },
   {
     "index": 196,
@@ -1957,7 +2347,9 @@
     "phone": "(02)29315288",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.541044",
+    "latitude": "24.998166"
   },
   {
     "index": 197,
@@ -1967,7 +2359,9 @@
     "phone": "(02)2939-0290",
     "approvedAmount": 28,
     "actualAmount": 28,
-    "evaluationResult": "110-乙"
+    "evaluationResult": "110-乙",
+    "longitude": "121.567927",
+    "latitude": "24.987572"
   },
   {
     "index": 198,
@@ -1977,7 +2371,9 @@
     "phone": "(02)29390569",
     "approvedAmount": 48,
     "actualAmount": 45,
-    "evaluationResult": "110-甲"
+    "evaluationResult": "110-甲",
+    "longitude": "121.570982",
+    "latitude": "24.987424"
   },
   {
     "index": 199,
@@ -1987,7 +2383,9 @@
     "phone": "(02)86631122",
     "approvedAmount": 40,
     "actualAmount": 28,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.539165",
+    "latitude": "24.989781"
   },
   {
     "index": 200,
@@ -1997,7 +2395,9 @@
     "phone": "(02)29320062",
     "approvedAmount": 40,
     "actualAmount": 37,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.535704",
+    "latitude": "25.003215"
   },
   {
     "index": 201,
@@ -2007,7 +2407,9 @@
     "phone": "(02)22360369",
     "approvedAmount": 26,
     "actualAmount": 25,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.552736",
+    "latitude": "24.987326"
   },
   {
     "index": 202,
@@ -2017,7 +2419,9 @@
     "phone": "(02)29376901",
     "approvedAmount": 30,
     "actualAmount": 25,
-    "evaluationResult": ""
+    "evaluationResult": "",
+    "longitude": "121.556021",
+    "latitude": "24.979122"
   },
   {
     "index": 203,
@@ -2027,7 +2431,9 @@
     "phone": "(02)22361388",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "110-優"
+    "evaluationResult": "110-優",
+    "longitude": "121.550991",
+    "latitude": "24.987767"
   },
   {
     "index": 204,
@@ -2037,7 +2443,9 @@
     "phone": "(02)86635692",
     "approvedAmount": 45,
     "actualAmount": 45,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.540766",
+    "latitude": "24.989982"
   },
   {
     "index": 205,
@@ -2047,7 +2455,9 @@
     "phone": "(02)29374896",
     "approvedAmount": 40,
     "actualAmount": 40,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.563109",
+    "latitude": "24.988095"
   },
   {
     "index": 206,
@@ -2057,7 +2467,9 @@
     "phone": "(02)22305993",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.558674",
+    "latitude": "24.998846"
   },
   {
     "index": 207,
@@ -2067,7 +2479,9 @@
     "phone": "(02)29320443",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.536008",
+    "latitude": "25.003136"
   },
   {
     "index": 208,
@@ -2077,7 +2491,9 @@
     "phone": "(02)29300388",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.54049",
+    "latitude": "25.003889"
   },
   {
     "index": 209,
@@ -2087,7 +2503,9 @@
     "phone": "(02)29362221",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-優"
+    "evaluationResult": "111-優",
+    "longitude": "121.562175",
+    "latitude": "24.986609"
   },
   {
     "index": 210,
@@ -2097,7 +2515,9 @@
     "phone": "(02)22302627",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.567572",
+    "latitude": "25.001315"
   },
   {
     "index": 211,
@@ -2107,7 +2527,9 @@
     "phone": "(02)89315966",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.551916",
+    "latitude": "25.002416"
   },
   {
     "index": 212,
@@ -2117,7 +2539,9 @@
     "phone": "(02)29349616",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.536742",
+    "latitude": "25.004819"
   },
   {
     "index": 213,
@@ -2127,7 +2551,9 @@
     "phone": "(02)29392022",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.55588",
+    "latitude": "24.989186"
   },
   {
     "index": 214,
@@ -2137,7 +2563,9 @@
     "phone": "(02)86631134",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "109-甲"
+    "evaluationResult": "109-甲",
+    "longitude": "121.558549",
+    "latitude": "25.006285"
   },
   {
     "index": 215,
@@ -2147,6 +2575,8 @@
     "phone": "(02)29330337",
     "approvedAmount": 12,
     "actualAmount": 12,
-    "evaluationResult": "111-甲"
+    "evaluationResult": "111-甲",
+    "longitude": "121.538745",
+    "latitude": "24.994114"
   }
 ]
