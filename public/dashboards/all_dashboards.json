@@ -51,7 +51,7 @@
 		{
 			"name": "團隊組件",
 			"index": "team",
-			"components": ["150", "151"],
+			"components": ["150", "151", "155"],
 			"icon": "bug_report"
 		},
 		{
