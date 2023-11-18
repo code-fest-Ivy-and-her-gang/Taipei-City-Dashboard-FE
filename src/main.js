@@ -34,6 +34,7 @@ import TimelineStackedChart from "./components/charts/TimelineStackedChart.vue";
 import MapLegend from "./components/charts/MapLegend.vue";
 import MetroChart from "./components/charts/MetroChart.vue";
 import CircleLineChart from "./components/charts/CircleLineChart.vue";
+import DynamicCircleChart from "./components/charts/DynamicCircleChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 
 const app = createApp(App);
@@ -58,5 +59,6 @@ app.component("MapLegend", MapLegend);
 app.component("MetroChart", MetroChart);
 app.component("CircleLineChart", CircleLineChart);
 app.component("HeatmapChart", HeatmapChart);
+app.component("DynamicCircleChart", DynamicCircleChart);
 
 app.mount("#app");
