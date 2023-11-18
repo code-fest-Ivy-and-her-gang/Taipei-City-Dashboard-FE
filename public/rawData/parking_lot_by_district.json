@@ -1,0 +1,87 @@
+[
+  {
+    "district": "",
+    "pregnancy_first": 0,
+    "handicap_first": 0
+  },
+  {
+    "district": "中山",
+    "pregnancy_first": 0,
+    "handicap_first": 0
+  },
+  {
+    "district": "中山區",
+    "pregnancy_first": 85,
+    "handicap_first": 180
+  },
+  {
+    "district": "中正",
+    "pregnancy_first": 0,
+    "handicap_first": 0
+  },
+  {
+    "district": "中正區",
+    "pregnancy_first": 43,
+    "handicap_first": 89
+  },
+  {
+    "district": "信義區",
+    "pregnancy_first": 132,
+    "handicap_first": 190
+  },
+  {
+    "district": "內湖",
+    "pregnancy_first": 0,
+    "handicap_first": 0
+  },
+  {
+    "district": "內湖區",
+    "pregnancy_first": 46,
+    "handicap_first": 101
+  },
+  {
+    "district": "北投區",
+    "pregnancy_first": 55,
+    "handicap_first": 162
+  },
+  {
+    "district": "南港區",
+    "pregnancy_first": 81,
+    "handicap_first": 107
+  },
+  {
+    "district": "士林區",
+    "pregnancy_first": 86,
+    "handicap_first": 171
+  },
+  {
+    "district": "大同區",
+    "pregnancy_first": 80,
+    "handicap_first": 87
+  },
+  {
+    "district": "大安區",
+    "pregnancy_first": 74,
+    "handicap_first": 120
+  },
+  {
+    "district": "文山",
+    "pregnancy_first": 0,
+    "handicap_first": 0
+  },
+  {
+    "district": "文山區",
+    "pregnancy_first": 67,
+    "handicap_first": 90
+  },
+  {
+    "district": "松山區",
+    "pregnancy_first": 128,
+    "handicap_first": 156
+  },
+  {
+    "district": "萬華區",
+    "pregnancy_first": 137,
+    "handicap_first": 254
+  }
+]
