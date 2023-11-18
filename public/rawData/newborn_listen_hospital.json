@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "city_id": 63000000,
+    "hospital_id": 401180014,
+    "hospital_name": "國立臺灣大學醫學院附設醫院",
+    "zip_code": 100,
+    "address": "台北市中正區中山南路7號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 2,
+    "city_id": 63000000,
+    "hospital_id": 401180023,
+    "hospital_name": "國立臺灣大學醫學院附設醫院兒童醫院",
+    "zip_code": 100,
+    "address": "台北市中正區中山南路8號",
+    "start_at": "2017.02.22"
+  },
+  {
+    "id": 3,
+    "city_id": 63000000,
+    "hospital_id": 10109051704,
+    "hospital_name": "臺北市立聯合醫院和平婦幼院區",
+    "zip_code": 100,
+    "address": "台北市中正區福州街12號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 4,
+    "city_id": 63000000,
+    "hospital_id": 10109051702,
+    "hospital_name": "臺北市立聯合醫院中興院區",
+    "zip_code": 103,
+    "address": "台北市大同區鄭州路145號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 5,
+    "city_id": 63000000,
+    "hospital_id": 1101100011,
+    "hospital_name": "財團法人臺灣基督長老教會馬偕紀念社會事業基金會馬偕紀念醫院",
+    "zip_code": 104,
+    "address": "台北市中山區中山北路二段92號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 6,
+    "city_id": 63000000,
+    "hospital_id": 1501100037,
+    "hospital_name": "協和婦女醫院",
+    "zip_code": 104,
+    "address": "台北市中山區朱園里松江路85巷5號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 7,
+    "city_id": 63000000,
+    "hospital_id": 3501100815,
+    "hospital_name": "李木生婦產科診所",
+    "zip_code": 104,
+    "address": "台北市中山區長安東路二段90號1-4樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 8,
+    "city_id": 63000000,
+    "hospital_id": 3501101492,
+    "hospital_name": "李義男婦產科",
+    "zip_code": 104,
+    "address": "台北市中山區中山北路二段71號4樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 9,
+    "city_id": 63000000,
+    "hospital_id": 3501108008,
+    "hospital_name": "四季和安婦幼診所",
+    "zip_code": 104,
+    "address": "臺北市中山區林森北路452號地下1樓、458號及458號3樓、460號及460號2樓、錦州街23巷3號3樓",
+    "start_at": "2016.08.11"
+  },
+  {
+    "id": 10,
+    "city_id": 63000000,
+    "hospital_id": 901020013,
+    "hospital_name": "中山醫療社團法人中山醫院",
+    "zip_code": 106,
+    "address": "台北市大安區仁愛路四段112巷11號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 11,
+    "city_id": 63000000,
+    "hospital_id": "350102B364",
+    "hospital_name": "禾馨新生婦幼診所",
+    "zip_code": 106,
+    "address": "台北市大安區新生南路三段2號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 12,
+    "city_id": 63000000,
+    "hospital_id": 1101010021,
+    "hospital_name": "基督復臨安息日會醫療財團法人臺安醫院",
+    "zip_code": 105,
+    "address": "台北市松山區八德路二段424號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 13,
+    "city_id": 63000000,
+    "hospital_id": 1101010012,
+    "hospital_name": "長庚醫療財團法人臺北長庚紀念醫院",
+    "zip_code": 105,
+    "address": "台北市松山區敦化北路199號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 14,
+    "city_id": 63000000,
+    "hospital_id": 1501010010,
+    "hospital_name": "博仁綜合醫院",
+    "zip_code": 105,
+    "address": "台北市松山區光復北路66號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 15,
+    "city_id": 63000000,
+    "hospital_id": 501010019,
+    "hospital_name": "三軍總醫院松山分院附設民眾診療服務處",
+    "zip_code": 105,
+    "address": "台北市松山區健康路131號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 16,
+    "city_id": 63000000,
+    "hospital_id": 1101020018,
+    "hospital_name": "國泰醫療財團法人國泰綜合醫院",
+    "zip_code": 106,
+    "address": "台北市大安區仁愛路四段280號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 17,
+    "city_id": 63000000,
+    "hospital_id": 10109051701,
+    "hospital_name": "臺北市立聯合醫院仁愛院區",
+    "zip_code": 106,
+    "address": "台北市大安區仁愛路四段10號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 18,
+    "city_id": 63000000,
+    "hospital_id": 3501026314,
+    "hospital_name": "許世賓婦產科診所",
+    "zip_code": 106,
+    "address": "台北市大安區和平東路一段169號2樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 19,
+    "city_id": 63000000,
+    "hospital_id": 3501026396,
+    "hospital_name": "周大中婦產科診所",
+    "zip_code": 106,
+    "address": "台北市大安區敦化南路二段46號2樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 20,
+    "city_id": 63000000,
+    "hospital_id": 3501021239,
+    "hospital_name": "吳坤光婦產科診所",
+    "zip_code": 106,
+    "address": "台北市大安區信義路四段59琥",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 21,
+    "city_id": 63000000,
+    "hospital_id": 3501021640,
+    "hospital_name": "博全婦產科診所",
+    "zip_code": 106,
+    "address": "台北市大安區光武里17鄰大安路一段18號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 22,
+    "city_id": 63000000,
+    "hospital_id": 3501023260,
+    "hospital_name": "林正宗婦產科診所",
+    "zip_code": 106,
+    "address": "台北市大安區和平東路三段100號2樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 23,
+    "city_id": 63000000,
+    "hospital_id": 901190010,
+    "hospital_name": "西園醫療社團法人西園醫院",
+    "zip_code": 108,
+    "address": "台北市萬華區西園路二段270號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 24,
+    "city_id": 63000000,
+    "hospital_id": 1301170017,
+    "hospital_name": "臺北醫學大學附設醫院",
+    "zip_code": 110,
+    "address": "台北市信義區吳興街252號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 25,
+    "city_id": 63000000,
+    "hospital_id": 1101150011,
+    "hospital_name": "新光醫療財團法人新光吳火獅紀念醫院",
+    "zip_code": 111,
+    "address": "台北市士林區福佳里文昌路95號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 26,
+    "city_id": 63000000,
+    "hospital_id": 10109051705,
+    "hospital_name": "臺北市立聯合醫院陽明院區",
+    "zip_code": 111,
+    "address": "台北市士林區雨聲街105號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 27,
+    "city_id": 63000000,
+    "hospital_id": 601160016,
+    "hospital_name": "臺北榮民總醫院",
+    "zip_code": 112,
+    "address": "台北市北投區石牌路二段201號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 28,
+    "city_id": 63000000,
+    "hospital_id": 1101160017,
+    "hospital_name": "振興醫療財團法人振興醫院",
+    "zip_code": 112,
+    "address": "台北市北投區振興街45號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 29,
+    "city_id": 63000000,
+    "hospital_id": 3501160302,
+    "hospital_name": "蔡賡禧婦產科診所",
+    "zip_code": 112,
+    "address": "台北市北投區石牌路一段72號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 30,
+    "city_id": 63000000,
+    "hospital_id": 3501160722,
+    "hospital_name": "張智郁婦產科",
+    "zip_code": 112,
+    "address": "台北市天母石牌路二段332-2號1樓",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 31,
+    "city_id": 63000000,
+    "hospital_id": 1101110026,
+    "hospital_name": "康寧醫療財團法人康寧醫院",
+    "zip_code": 114,
+    "address": "台北市內湖區成功路五段420巷26號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 32,
+    "city_id": 63000000,
+    "hospital_id": 501110514,
+    "hospital_name": "三軍總醫院附設民眾診療服務處",
+    "zip_code": 114,
+    "address": "台北市內湖區成功路二段325號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 33,
+    "city_id": 63000000,
+    "hospital_id": 3501113929,
+    "hospital_name": "禾馨民權婦幼診所",
+    "zip_code": 114,
+    "address": "台北市內湖區民權東路六段42號",
+    "start_at": "2017.01.12"
+  },
+  {
+    "id": 34,
+    "city_id": 63000000,
+    "hospital_id": 3501113750,
+    "hospital_name": "禾馨內湖婦幼診所",
+    "zip_code": 114,
+    "address": "臺北市內湖區民權東路六段42號",
+    "start_at": "2016.01.21"
+  },
+  {
+    "id": 35,
+    "city_id": 63000000,
+    "hospital_id": 10109051703,
+    "hospital_name": "臺北市立聯合醫院忠孝院區",
+    "zip_code": 115,
+    "address": "台北市南港區同德路87號",
+    "start_at": "2015.01.01"
+  },
+  {
+    "id": 36,
+    "city_id": 63000000,
+    "hospital_id": 1301200010,
+    "hospital_name": "台北市立萬芳醫院－委託財團法人私立臺北醫學大學辦理",
+    "zip_code": 116,
+    "address": "台北市文山區興隆路三段111號",
+    "start_at": "2015.01.01"
+  }
+]
